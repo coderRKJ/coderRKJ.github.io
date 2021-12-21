@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/coderRKJ/coderRKJ.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in the Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The repository is using a static template [from sharu725/online-cv](https://github.com/sharu725/online-cv).
 
-### Markdown
+### Main Page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main page that jekyll compiles is [index.html](https://github.com/coderRKJ/coderRKJ.github.io/blob/main/index.html).
 
-```markdown
-Syntax highlighted code block
+### Site config
 
-# Header 1
-## Header 2
-### Header 3
+The configurations are in [_config.yml](https://github.com/coderRKJ/coderRKJ.github.io/blob/main/_config.yml) file.
 
-- Bulleted
-- List
+### Site Data
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coderRKJ/coderRKJ.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The template data is rendered from [_data/data.yml](https://github.com/coderRKJ/coderRKJ.github.io/blob/main/_data/data.yml) file.
