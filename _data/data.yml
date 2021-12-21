@@ -73,6 +73,18 @@ experiences:
           - Imaging in Psychiatric Conditions.
           - Built a dummy SQL Database for modelling
           - Created a python script to demo retinal segmentation using ML
+    
+    - role: Hackathon Participant
+      time: February 2021
+      company: Nitte Healthcare Innovation Hackathon
+      details: |
+        Participated in Healthcare Hackathon.
+        Worked on:
+          - Worked on analysing papers for identifying Depression through speech patterns
+          - Worked on ML Model.
+          - Built a model Client and Sever Scripts in Python 
+          - Created a presentation for the Judges
+
 projects:
     title: Projects
     intro: >
@@ -146,6 +158,9 @@ skills:
         level: 65%
 
       - name: Node.Js
+        level: 50%
+        
+      - name: Java
         level: 50%
 
 footer: >
