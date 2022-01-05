@@ -47,12 +47,17 @@ career-profile:
       Am aspiring student developer eager to user advancements in
       Machine Learing and Computer Vision in medical applications.
 education:
-    - degree: Masters in Medical Science and Technology
+    - degree: Masters in Medical Science and Technology (MMST)
       university: IIT KGP
       time: 2020 - Present
       details: |
         Studying this course with a focus on learning application of ML and 
         Computer Vision techniques in the healthcare industry. Currently in 4th semster
+
+    - degree: Bachelor of Medicine and Bachelor of Surgery (MBBS)
+      university: Jawaharlal Nehru Institute of Medical Science, Imphal
+      time: 2013 - 2019
+
 experiences:
     - role: Intern
       time: May 2021 - July 2021
