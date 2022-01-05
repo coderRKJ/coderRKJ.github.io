@@ -112,13 +112,13 @@ publications:
       Various awards and certificates recieved during my college education:
     papers:
       - title: NPTEL Certificates
-        tagline: "Software Engineering, AI Search Methods for Problem Solving."
+        conference: "Software Engineering (One of the Top 1 % of Certified Candidates)<br> AI Search Methods for Problem Solving (One of the Top 1 % of Certified Candidates)<br> An Introduction to Cardiovascular Fluid Mechanics (Course Topper)."
 
       - title: Kaggle Certificates
-        tagline: "Python, Intro to Machine Learning"
+        conference: "Python, Intro to Machine Learning"
 
       - title: Nitte Healthcare Innovation Hackathon
-        tagline: "Certificate of Participation"
+        conference: "Certificate of Participation"
 
 skills:
     title: Skills &amp; Proficiency
