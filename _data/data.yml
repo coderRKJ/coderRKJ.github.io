@@ -82,7 +82,6 @@ projects:
       A list of projects that has been done in the past few years.
     assignments:
       - title: ICH Segmentation Project
-        link: "#hook"
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
 
 # publications:
@@ -113,15 +112,12 @@ publications:
       Various awards and certificates recieved during my college education:
     papers:
       - title: NPTEL Certificates
-        link: "#"
         tagline: "Software Engineering, AI Search Methods for Problem Solving."
 
       - title: Kaggle Certificates
-        link: "#"
         tagline: "Python, Intro to Machine Learning"
 
       - title: Nitte Healthcare Innovation Hackathon
-        link: "#"
         tagline: "Certificate of Participation"
 
 skills:
