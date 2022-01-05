@@ -16,10 +16,10 @@ sidebar:
 #     phone: +91 8837232207
     website: rahulkurianjacob.me #do not add http://
     linkedin: rahul-kurian-jacob
-#     xing: coderRKJ
+#     xing: 
     github: coderRKJ
     telegram: coderRKJ # add your nickname without '@' sign
-    gitlab: 21f1000481
+#     gitlab: 21f1000481
 #     bitbucket:
 #     twitter: '@coderRKJ'
 #     stack-overflow: # Number/Username, e.g. 123456/coderRKJ
@@ -38,7 +38,7 @@ sidebar:
       - item: Arduino tinkering
         link:
 
-      - item: Cooking
+      - item: Competitive Coding
         link:
 
 career-profile:
@@ -47,25 +47,16 @@ career-profile:
       Am aspiring student developer eager to user advancements in
       Machine Learing and Computer Vision in medical applications.
 education:
-    - degree: IITM Online BSc Degree in Programming and Data Science
-      university: IIT Madras
-      time: 2020 - Present
-      details: |
-        Currently enrolled in Diploma Level. Completed Foundational Level. Currently taking:
-          - Java
-          - AppDev-II
-          - Business Data Mgt 
-          - System Comands
     - degree: Masters in Medical Science and Technology
       university: IIT KGP
       time: 2020 - Present
       details: |
         Studying this course with a focus on learning application of ML and 
-        Computer Vision techniques in the healthcare industry.
+        Computer Vision techniques in the healthcare industry. Currently in 4th semster
 experiences:
     - role: Intern
       time: May 2021 - July 2021
-      company: Forus Health Pvt. Ltd., Bengaluru
+      company: Summer Internship # Forus Health Pvt. Ltd., Bengaluru
       details: |
         Had an intership during the summer break for 2 and a half months.
         Worked on:
@@ -88,16 +79,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A list of side-projects that has been done. They vary from ML to Web3 to University Projects
-      that were done in the past few years.
+      A list of projects that has been done in the past few years.
     assignments:
       - title: ICH Segmentation Project
         link: "#hook"
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
-
-      - title: Health-Passport-dApp
-        link: "github.com/coderRKJ/Health-Passport-dApp"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 # publications:
 #     title: Publications
@@ -121,7 +107,7 @@ projects:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-certificates:
+publications:
     title: Awards/Certificates
     intro: |
       Various awards and certificates recieved during my college education:
@@ -143,25 +129,25 @@ skills:
 
     toolset:
       - name: Python  & Flask
-        level: 98%
+        level: 90%
 
 #       - name: Javascript # & jQuery
 #         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 85%
         
       - name: C & C++
-        level: 75%
-
-      - name: Bootstrap
         level: 65%
 
-      - name: Node.Js
-        level: 50%
+      - name: Bootstrap
+        level: 55%
+
+      - name: JavaScript & Node.Js
+        level: 40%
         
       - name: Java
-        level: 50%
+        level: 40%
 
 footer: >
      Jekyll Template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
