@@ -84,7 +84,7 @@ projects:
       - title: ICH Segmentation Project
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
 
-      - title: Minor Project-I: 3D CNN for RNSA-MICCAI Brain Tumour Radio-genomic Classification
+      - title: 3D CNN for RNSA-MICCAI Brain Tumour Radio-genomic Classification
         tagline: "This project explores the use of 3D Convolutional Neural Networks (CNNs) for predicting the status of MGMT promoter methylation in high-grade gliomas."
 
 #       - title: ICH Segmentation Project
