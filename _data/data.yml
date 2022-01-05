@@ -61,7 +61,7 @@ education:
 experiences:
     - role: Intern
 #       time: May 2021 - July 2021
-      company: Summer Internship # Forus Health Pvt. Ltd., Bengaluru
+      company: Summer 2021 Internship # Forus Health Pvt. Ltd., Bengaluru
       details: |
          Topic:
            - Meta-analysis on Retinal Fundus Imaging in Psychiatric Conditions
@@ -83,7 +83,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A list of projects worked on during MMST.
+      A list of projects worked on during MMST:
     assignments:
       - title: ICH Segmentation Project
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
