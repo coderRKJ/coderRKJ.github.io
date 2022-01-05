@@ -63,8 +63,7 @@ experiences:
 #       time: May 2021 - July 2021
       company: Summer 2021 Internship # Forus Health Pvt. Ltd., Bengaluru
       details: |
-         Topic:
-           - Meta-analysis on Retinal Fundus Imaging in Psychiatric Conditions
+         Topic: Meta-analysis on Retinal Fundus Imaging in Psychiatric Conditions
 #         Had an intership during the summer break for 2 and a half months.
 #         Worked on:
 #           - Worked on analysing papers for Meta-analysis on Retinal Fundus
@@ -72,13 +71,11 @@ experiences:
 #           - Built a dummy SQL Database for modelling
 #           - Created a python script to demo retinal segmentation using ML
     
-    - role: Hackathon Participant
+    - role: Nitte Healthcare Innovation Hackathon Participant
       time: February 2021
-      company: Nitte Healthcare Innovation Hackathon
+#       company: Nitte Healthcare Innovation Hackathon
       details: |
-        Participated in Healthcare Hackathon.
-        Topic:
-          - Identifying Depression through Speech Patterns
+        Topic: Identifying Depression through Speech Patterns
 
 projects:
     title: Projects
@@ -86,7 +83,7 @@ projects:
       A list of projects worked on during MMST:
     assignments:
       - title: ICH Segmentation Project
-        tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
+        tagline: "A machine learning model for segmenting out ICH regions on a small brain CT scan dataset."
 
       - title: 3D CNN for RNSA-MICCAI Brain Tumour Radio-genomic Classification
         tagline: "Explores the use of 3D Convolutional Neural Networks (CNNs) for predicting the status of MGMT promoter methylation in high-grade gliomas."
