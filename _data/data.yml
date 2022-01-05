@@ -44,15 +44,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Am aspiring student developer interested in using
-      machine learing and computer vision for medical applications.
+      An aspiring student developer interested in using
+      machine learning and computer vision for medical applications
 education:
     - degree: Masters in Medical Science and Technology (MMST)
       university: IIT KGP
       time: 2020 - Present
-      details: |
-        Studying this course with a focus on learning application of ML and 
-        Computer Vision techniques in the healthcare industry. Currently in 4th semster
+#       details: |
+#         Studying this course with a focus on learning application of ML and 
+#         computer vision techniques in the healthcare industry, currently in 4th semster
 
     - degree: Bachelor of Medicine and Bachelor of Surgery (MBBS)
       university: Jawaharlal Nehru Institute of Medical Science, Imphal
