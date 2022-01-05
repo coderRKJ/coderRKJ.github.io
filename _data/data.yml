@@ -32,11 +32,11 @@ sidebar:
         level: Native
 
     interests:
-      - item: Jogging
-        link:
+#       - item: Jogging
+#         link:
 
-      - item: Arduino tinkering
-        link:
+#       - item: Arduino tinkering
+#         link:
 
       - item: Competitive Coding
         link:
@@ -44,8 +44,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Am aspiring student developer eager to user advancements in
-      Machine Learing and Computer Vision in medical applications.
+      Am aspiring student developer interested in using
+      machine learing and computer vision for medical applications.
 education:
     - degree: Masters in Medical Science and Technology (MMST)
       university: IIT KGP
@@ -60,37 +60,36 @@ education:
 
 experiences:
     - role: Intern
-      time: May 2021 - July 2021
+#       time: May 2021 - July 2021
       company: Summer Internship # Forus Health Pvt. Ltd., Bengaluru
       details: |
-        Had an intership during the summer break for 2 and a half months.
-        Worked on:
-          - Worked on analysing papers for Meta-analysis on Retinal Fundus
-          - Imaging in Psychiatric Conditions.
-          - Built a dummy SQL Database for modelling
-          - Created a python script to demo retinal segmentation using ML
+         Topic:
+           - Meta-analysis on Retinal Fundus Imaging in Psychiatric Conditions
+#         Had an intership during the summer break for 2 and a half months.
+#         Worked on:
+#           - Worked on analysing papers for Meta-analysis on Retinal Fundus
+#           - Imaging in Psychiatric Conditions.
+#           - Built a dummy SQL Database for modelling
+#           - Created a python script to demo retinal segmentation using ML
     
     - role: Hackathon Participant
       time: February 2021
       company: Nitte Healthcare Innovation Hackathon
       details: |
         Participated in Healthcare Hackathon.
-        Worked on:
-          - Worked on analysing papers for identifying Depression through speech patterns
-          - Worked on ML Model.
-          - Built a model Client and Sever Scripts in Python 
-          - Created a presentation for the Judges
+        Topic:
+          - Identifying Depression through Speech Patterns
 
 projects:
     title: Projects
     intro: >
-      A list of projects that has been done in the past few years.
+      A list of projects worked on during MMST.
     assignments:
       - title: ICH Segmentation Project
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
 
       - title: 3D CNN for RNSA-MICCAI Brain Tumour Radio-genomic Classification
-        tagline: "This project explores the use of 3D Convolutional Neural Networks (CNNs) for predicting the status of MGMT promoter methylation in high-grade gliomas."
+        tagline: "Explores the use of 3D Convolutional Neural Networks (CNNs) for predicting the status of MGMT promoter methylation in high-grade gliomas."
 
 #       - title: ICH Segmentation Project
 #         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
@@ -117,25 +116,25 @@ projects:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-publications:
+certificates:
     title: Awards/Certificates
     intro: |
       Various awards and certificates recieved during my college education:
     papers:
       - title: NPTEL Certificates
-        conference: "Software Engineering (One of the Top 1 % of Certified Candidates)<br> AI Search Methods for Problem Solving (One of the Top 1 % of Certified Candidates)<br> An Introduction to Cardiovascular Fluid Mechanics (Course Topper)."
+        details: "Software Engineering (One of the Top 1 % of Certified Candidates)<br> AI Search Methods for Problem Solving (One of the Top 1 % of Certified Candidates)<br> An Introduction to Cardiovascular Fluid Mechanics (Course Topper)."
 
       - title: Kaggle Certificates
-        conference: "Python<br> Intro to Machine Learning"
+        details: "Python<br> Intro to Machine Learning"
 
       - title: Nitte Healthcare Innovation Hackathon
-        conference: "Certificate of Participation"
+        details: "Certificate of Participation"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python  & Flask
+      - name: Python & Flask
         level: 90%
 
 #       - name: Javascript # & jQuery
