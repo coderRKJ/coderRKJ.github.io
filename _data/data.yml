@@ -83,6 +83,12 @@ projects:
     assignments:
       - title: ICH Segmentation Project
         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
+    assignments:
+      - title: Minor Project-I: 3D CNN for RNSA-MICCAI Brain Tumour Radio-genomic Classification
+        tagline: "This project explores the use of 3D Convolutional Neural Networks (CNNs) for predicting the status of MGMT promoter methylation in high-grade gliomas."
+#     assignments:
+#       - title: ICH Segmentation Project
+#         tagline: "A machine learning model for segmenting out ICH regions on a small Brain CT Scan dataset."
 
 # publications:
 #     title: Publications
@@ -115,7 +121,7 @@ publications:
         conference: "Software Engineering (One of the Top 1 % of Certified Candidates)<br> AI Search Methods for Problem Solving (One of the Top 1 % of Certified Candidates)<br> An Introduction to Cardiovascular Fluid Mechanics (Course Topper)."
 
       - title: Kaggle Certificates
-        conference: "Python, Intro to Machine Learning"
+        conference: "Python<br> Intro to Machine Learning"
 
       - title: Nitte Healthcare Innovation Hackathon
         conference: "Certificate of Participation"
@@ -139,7 +145,7 @@ skills:
       - name: Bootstrap
         level: 55%
 
-      - name: JavaScript & Node.Js
+      - name: JavaScript & Node.js
         level: 40%
         
       - name: Java
